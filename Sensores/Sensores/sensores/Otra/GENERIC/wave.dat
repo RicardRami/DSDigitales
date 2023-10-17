@@ -1,0 +1,91 @@
+$WAVE
+$EVENTS
+;ENDWAVE
+I 0 "e#9#std_logicc9 UX01ZWLH-"
+S 3 0
+3 U
+;ENDWAVE
+S 0 0
+0 U
+;ENDWAVE
+I 1 "e#3#bitc2 01"
+S 1 1
+1 0
+S 2 1
+2 0
+;ENDWAVE
+S 4 0
+4 U
+;ENDWAVE
+I 2 "e#6#estados4 a b c d "
+S 5 2
+5 a
+;ENDWAVE
+S 6 2
+6 a
+;ENDWAVE
+D 1
+4 0
+2 1
+1 1
+0 0
+3 0
+T 50000
+3 1
+T 50000
+3 0
+;ENDWAVE
+D 1
+1 0
+D 2
+6 b
+T 50000
+3 1
+D 1
+5 b
+T 50000
+3 0
+;ENDWAVE
+D 1
+1 1
+D 2
+6 c
+T 50000
+3 1
+D 1
+5 c
+T 50000
+3 0
+;ENDWAVE
+D 1
+2 0
+D 2
+6 d
+T 50000
+3 1
+D 1
+5 d
+T 50000
+3 0
+;ENDWAVE
+T 50000
+3 1
+T 50000
+3 0
+;ENDWAVE
+T 50000
+3 1
+T 50000
+3 0
+;ENDWAVE
+D 1
+1 0
+D 2
+6 a
+T 50000
+3 1
+D 1
+5 a
+T 50000
+3 0
+$ENDWAVE

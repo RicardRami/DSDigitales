@@ -1,0 +1,42 @@
+
+     | | | | | | |
+   _________________
+  -|               |-
+  -|               |-
+  -|               |-
+  -|    CYPRESS    |-
+  -|               |-
+  -|               |-   Warp VHDL Synthesis Compiler: Version 6.3 IR 35
+  -|               |-   Copyright (C) 1991-2001 Cypress Semiconductor
+   |_______________|
+     | | | | | | |
+
+======================================================================
+Compiling:  Maquina.vhd
+Options:    -m -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -ppalc22v10d-15pc -b Maquina.vhd -u Estados.hie
+======================================================================
+
+vhdlfe V6.3 IR 35:  VHDL parser
+Mon Jan 25 17:43:40 2021
+
+Library 'work' => directory 'lc22v10'
+Linking 'C:\PROGRA~1\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\PROGRA~1\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\PROGRA~1\Cypress\Warp\lib\common\work\cypress.vif'.
+Library 'ieee' => directory 'C:\PROGRA~1\Cypress\Warp\lib\ieee\work'
+Linking 'C:\PROGRA~1\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+Maquina.vhd (line 26, col 12):  (E31) Missing end-quote.
+Error occurred within 'IF' at line 26, column 3 in Maquina.vhd.
+Maquina.vhd (line 26, col 13):  (E18) Missing THEN.
+Maquina.vhd (line 26, col 13):  (E0) syntax error
+Maquina.vhd (line 29, col 5):  (E10) Syntax error at/before reserved symbol 'when'.
+Maquina.vhd (line 30, col 12):  (E31) Missing end-quote.
+Error occurred within 'IF' at line 30, column 3 in Maquina.vhd.
+Maquina.vhd (line 30, col 13):  (E18) Missing THEN.
+Maquina.vhd (line 30, col 13):  (E0) syntax error
+Maquina.vhd (line 32, col 5):  (E10) Syntax error at/before reserved symbol 'when'.
+Maquina.vhd (line 33, col 12):  (E31) Missing end-quote.
+Error occurred within 'IF' at line 33, column 3 in Maquina.vhd.
+Maquina.vhd (line 33, col 13):  (E18) Missing THEN.
+Maquina.vhd (line 33, col 13):  (E0) syntax error
+vhdlfe:  Maquina.vhd:  Abort:  (E46) Error limit (10) exceeded

@@ -1,0 +1,10 @@
+ENTITY estados IS
+    PORT (
+	reset : in std_logic  ; 
+	x1 : in std_logic  ; 
+	x0 : in std_logic  ; 
+	clk : in std_logic  ; 
+	input_state : inout std_logic_vector (1 downto 0) ; 
+	z : inout std_logic 
+    ) ;
+END estados ;

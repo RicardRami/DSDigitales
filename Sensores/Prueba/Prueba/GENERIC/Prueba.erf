@@ -1,0 +1,6 @@
+MESSAGE "File: E:\Prueba\Prueba.vhd" 
+MESSAGE "Compile Entity "detector"" 
+MESSAGE "Compile Architecture "detector" of Entity "detector"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   detector" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]" 

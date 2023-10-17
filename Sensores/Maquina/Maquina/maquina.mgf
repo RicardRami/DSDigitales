@@ -1,0 +1,115 @@
+01000048 V estados 5 "E:\Maquina\Maquina.vhd" 600 251 0
+12
+0
+12
+00000003
+1
+E:\Maquina\Maquina.vhd
+0
+0 0 0 0 0 0
+1
+1
+29
+0
+29
+12 ~ ~ 0 0
+0
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 1 1
+1
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 2 2
+2
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 3 3
+3
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 4 4
+4
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 5 5
+5
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+0
+#VLB_VERSION 56
+#INFO
+estados
+E 1611604355.649
+6
+#ACCESS
+std
+.
+ieee
+std_logic_1164 all .
+.
+#OBJECTS
+cs 0 29 63 1 . 4
+reset 1 29 153 1 . 5
+x1 2 29 243 1 . 6
+x0 3 29 333 1 . 7
+clk 4 29 423 1 . 8
+z 5 29 513 1 . 9
+#SPECIFICATION 
+#END

@@ -1,0 +1,8 @@
+MESSAGE "File: E:\Maquina\Maquina.vhd" 
+MESSAGE "Compile Entity "estados"" 
+MESSAGE "Compile Architecture "maquina" of Entity "estados"" 
+ERROR COMP96_0015: "':' expected." "E:\Maquina\Maquina.vhd" 13 42
+ERROR COMP96_0015: "';' expected." "E:\Maquina\Maquina.vhd" 14 12
+ERROR COMP96_0111: "Labels do not match." "E:\Maquina\Maquina.vhd" 39 13
+ERROR COMP96_0019: "Keyword "end" expected." "E:\Maquina\Maquina.vhd" 40 0
+MESSAGE "Compile failure 4 Errors 0 Warnings  Analysis time :  2.0 [s]" 

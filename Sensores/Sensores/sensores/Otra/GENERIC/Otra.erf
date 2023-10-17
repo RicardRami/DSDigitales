@@ -1,0 +1,6 @@
+MESSAGE "File: E:\Otra\Otra.vhd" 
+MESSAGE "Compile Entity "estados"" 
+MESSAGE "Compile Architecture "maquina" of Entity "estados"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   estados" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]" 

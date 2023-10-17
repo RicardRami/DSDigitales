@@ -1,0 +1,13 @@
+Cypress Package: palc22v10d-15pc  PinOut File: Maquina.pin
+
+This file was created on 01/25/2021 at 12:36:25 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+clk gclk <> Enabled Normal 1 <> [Auto] 
+x1 in <> Enabled Normal 2 <> [Auto] 
+x0 in <> Enabled Normal 3 <> [Auto] 
+reset in <> Enabled Normal 4 <> [Auto] 
+input_state(1) in <> Enabled Normal 5 <> [Auto] 
+input_state(0) in <> Enabled Normal 6 <> [Auto] 
+z out <> Enabled Normal 14 <> [Auto] 

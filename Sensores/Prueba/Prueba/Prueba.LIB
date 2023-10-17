@@ -1,0 +1,10 @@
+[~A]
+last=3435
+modifyid=3
+valid=7302
+ver=57
+
+[~U]
+detector=3435,5
+detector__detector__code=0,1
+
